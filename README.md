@@ -28,4 +28,4 @@ Fuente(s):
 
 - https://web.dev/indexeddb-best-practices/
 
-Ejercicio práctico siguiendo los pasos de este [Crash Course](https://www.youtube.com/watch?v=vb7fkBeblcw): [Ver ejercicio](index.html)
+Ejercicio práctico siguiendo los pasos de este [Crash Course](https://www.youtube.com/watch?v=vb7fkBeblcw): [Ver ejercicio](indexedDB.html)
