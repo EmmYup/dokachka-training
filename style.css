@@ -1,0 +1,31 @@
+body {
+  background: #a9e5bb;
+}
+
+.definition {
+  color: black;
+}
+
+div p {
+  color: yellow;
+}
+
+p {
+  color: green !important; /* BAD PRACTICE EXAMPLE*/
+}
+
+.source {
+  color: green;
+}
+
+#source {
+  color: blueviolet !important; /* BAD PRACTICE EXAMPLE*/
+}
+
+.section-one {
+  background-color: wheat;
+}
+
+.section__title {
+  color: blue;
+}
