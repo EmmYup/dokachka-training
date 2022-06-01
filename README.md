@@ -2,16 +2,16 @@
 
 #### Engineering Knowledge
 
-Tema: _Non-well-described tickets_
+Tema: _Splitting a huge User Story into smaller ones_
 Fuente(s):
 
-- https://medium.com/@Carmichaelize/writing-better-user-stories-and-bug-tickets-3cb5165e7db
+- https://www.agilealliance.org/glossary/split/
 
-- https://www.easyagile.com/blog/how-to-write-good-user-stories-in-agile-software-development/
+- https://manifesto.co.uk/slicing-large-agile-user-stories-smaller-ones/
 
-- https://levelup.gitconnected.com/be-a-better-software-developer-write-better-tickets-75ccf9621c02
+- https://techbeacon.com/app-dev-testing/practical-guide-user-story-splitting-agile-teams
 
-- https://www.heady.io/blog/foundations-of-agile-ticket-writing-a-4-part-series
+- https://corebts.com/blog/agile-story-splitting-vague-words-mvp-enhanced/
 
 Cursos/certificados relacionados:
 
@@ -19,13 +19,23 @@ Cursos/certificados relacionados:
 
 ---
 
-Tema: _IndexedDB: Fast access non privates_
+#### HTML
+
+Tema: _Client-side cookies alternatives_
 Fuente(s):
 
-- https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB
+- [Session storage: No private lost data after close](https://javascript.plainenglish.io/everything-you-need-to-know-about-html5-local-storage-and-session-storage-479c63415c0a)
 
-- [IndexedDB Crash Course with Javascript](https://www.youtube.com/watch?v=vb7fkBeblcw)
+- [Session storage: No private lost data after close](https://www.loginradius.com/blog/engineering/guest-post/local-storage-vs-session-storage-vs-cookies/)
 
-- https://web.dev/indexeddb-best-practices/
+- [HTTP not secure](https://www.cloudflare.com/learning/ssl/why-is-http-not-secure/)
 
-Ejercicio práctico siguiendo los pasos de este [Crash Course](https://www.youtube.com/watch?v=vb7fkBeblcw): [Ver ejercicio](index.html)
+- [How to Harden your HTTP cookies](https://www.freecodecamp.org/news/web-security-hardening-http-cookies-be8d8d8016e1/)
+
+- [HTTP Cookies Crash Course](https://www.youtube.com/watch?v=sovAIX4doOE)
+
+- [Token Storage](https://medium.com/@benjamin.botto/secure-access-token-storage-with-single-page-applications-part-1-9536b0021321)
+
+- XSS:
+  - [XSS Explained](https://www.youtube.com/watch?v=EoaDgUgS6QA)
+  - [Cross-Site Scripting Explained with Examples](https://www.youtube.com/watch?v=pD6C1-zSxIM)
