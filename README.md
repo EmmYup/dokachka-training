@@ -1,11 +1,17 @@
-# Semana 0, día 2
+# Semana 1, día 1
 
-Tema: SDLC Phases
+#### Engineering Knowledge
+
+Tema: _Non-well-described tickets_
 Fuente(s):
 
-- https://www.servicenow.com/products/devops/what-is-sdlc.html
+- https://medium.com/@Carmichaelize/writing-better-user-stories-and-bug-tickets-3cb5165e7db
 
-- https://www.atlassian.com/software-development
+- https://www.easyagile.com/blog/how-to-write-good-user-stories-in-agile-software-development/
+
+- https://levelup.gitconnected.com/be-a-better-software-developer-write-better-tickets-75ccf9621c02
+
+- https://www.heady.io/blog/foundations-of-agile-ticket-writing-a-4-part-series
 
 Cursos/certificados relacionados:
 
@@ -13,24 +19,13 @@ Cursos/certificados relacionados:
 
 ---
 
-Tema: How to add changes on an ongoing sprint
+Tema: _IndexedDB: Fast access non privates_
 Fuente(s):
 
-- https://medium.com/swlh/understanding-negotiation-and-agile-estimation-dfe870504f9a
+- https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB
 
-- https://www.scrum.org/forum/scrum-forum/47473/negotiate-invest-how-much-and-when
+- [IndexedDB Crash Course with Javascript](https://www.youtube.com/watch?v=vb7fkBeblcw)
 
-Cursos/certificados relacionados:
+- https://web.dev/indexeddb-best-practices/
 
-- https://www.scrumstudy.com/certification/verify?type=SFC&number=915326
-
----
-
-Tema: HTML Semantic
-Fuente(s):
-
-- https://developer.mozilla.org/en-US/docs/Glossary/Semantics
-- https://medium.com/weekly-webtips/what-is-semantic-html-and-why-is-it-important-8d90cfaf5803
-- https://developer.mozilla.org/en-US/docs/Learn/HTML/Cheatsheet
-
-Ejemplo práctico basico: [Ver ejemplo](index.html)
+Ejercicio práctico siguiendo los pasos de este [Crash Course](https://www.youtube.com/watch?v=vb7fkBeblcw): [Ver ejercicio](index.html)
