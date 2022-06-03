@@ -1,0 +1,6 @@
+[submodule ".\\Training Project\\app"]
+	path = .\\Training Project\\app
+	url = git@github.com:EmmYup/todo-app-react-typescript-practice.git
+[submodule ".\\Training Project\\api"]
+	path = .\\Training Project\\api
+	url = git@github.com:EmmYup/todo-api-typescript-practice.git
