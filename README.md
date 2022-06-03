@@ -1,4 +1,4 @@
-# Semana 3, día 2
+# Semana 2, día 4
 
 #### HTML
 
@@ -6,4 +6,4 @@ Tema: _Client-side cookies alternatives_
 
 Cursos/certificados relacionados:
 
-- [Learning Chrome Web Developer Tools](CertificadoDeFinalizacion.pdf)
+- [Web Security Same Origin Policies](CertificadoDeFinalizacion_WebSecuritySameOriginPolicies.pdf)
