@@ -8,3 +8,5 @@ Cursos/certificados relacionados:
 
 - [Learning Chrome Web Developer Tools](CertificadoDeFinalizacion.pdf)
 - [Vanilla JavaScript ClientSide Data Storage](CertificadoDeFinalizacion_VanillaJavaScriptClientSideDataStorage.pdf)
+
+## Practice Project CHANGELOG
