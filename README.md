@@ -2,7 +2,7 @@
 
 #### JavaScript
 
-Tema: _Client-side cookies alternatives_
+Tema: _Scope, Lexical Environment and Execution context_
 
 Cursos/certificados relacionados:
 
