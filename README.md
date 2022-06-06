@@ -1,9 +1,12 @@
-# Semana 2, día 4
+# Semana 2, día 5
 
-#### HTML
+#### JavaScript
 
 Tema: _Client-side cookies alternatives_
 
 Cursos/certificados relacionados:
 
-- [Web Security Same Origin Policies](CertificadoDeFinalizacion_WebSecuritySameOriginPolicies.pdf)
+- [JavaScript Scope](CertificateOfCompletion_JavaScriptScope.pdf)
+- [Challenge](index.js)
+- [Challenge 1](challenge1.js)
+- [Challenge 2](challenge2.js)
