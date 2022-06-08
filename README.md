@@ -1,36 +1,29 @@
-# Semana 3, día 1
+# Semana 3, día 2
 
 #### JavaScript
 
-Tema: _Scope, Lexical Environment and Execution context_
+Tema: _Regular and arrow functions_
 
 Recursos:
 
-- [JavaScript Execution Context – How JS Works Behind The Scenes](https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes)
-- [Scope and Closures in JavaScript – Explained with Examples](https://www.freecodecamp.org/news/scope-and-closures-in-javascript)
-- [Execution context, Scope chain and JavaScript internals](https://medium.com/@happymishra66/execution-context-in-javascript-319dd72e8e2c)
-- [Execution Context, Lexical Environment, and Closures in JavaScript](https://betterprogramming.pub/execution-context-lexical-environment-and-closures-in-javascript-b57c979341a5)
+- [5 Differences Between Arrow and Regular Functions](https://dmitripavlutin.com/differences-between-arrow-and-regular-functions)
+- [When (and why) you should use ES6 arrow functions — and when you shouldn’t](https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/)
+- [The Differences Between Arrow and Regular Functions You Should Know](https://javascript.plainenglish.io/the-differences-between-arrow-and-regular-functions-you-should-know-401c4bf22ad3)
 
 ---
 
-Tema: _call, apply, bind_
+Tema: _Event Loop_
 
 Recursos:
 
-- [Understanding call-and-apply invocation](https://www.linkedin.com/learning/javascript-functions/understanding-call-and-apply-invocation?autoAdvance=true&autoSkip=false&autoplay=true&resume=false&u=2113185)
-- [How To Use Call, Apply, Bind, and This in JavaScript](https://andela.com/insights/how-and-when-to-use-call-apply-bind-and-this-in-javascript/)
-
-Challenges:
-
-- [_this_, scope, closures, call, apply, lexical environment](index.js)
-- [call, apply, bind, _this_](challenge2.js)
+- [What the heck is the event loop anyway? JSConf (Philup Roberts)](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Playground Loupe by Philip Roberts](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D)
+- [What is an event loop in JavaScript?](https://www.educative.io/edpresso/what-is-an-event-loop-in-javascript)
 
 ---
 
-Tema: _Immediately Invoked Function Expression_
+Tema: _Type coercion_
 
 Recursos:
 
-- [MDN web docs](https://developer.mozilla.org/es/docs/Glossary/IIFE)
-- [Ben Alman's blog post defining IIFEs](https://benalman.com/news/2010/11/immediately-invoked-function-expression/)
-- ["Ejemplo Rápido"(al final de la sección "Functions" , justo despues de "Custom objects")](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#functions)
+- [Type coercion in JavaScript](https://blog.logrocket.com/type-coercion-in-javascript/#:~:text=Implicit%20coercion%20happens%20when%20JavaScript,type%20to%20a%20specific%20type.)
