@@ -1,40 +1,17 @@
-const warriors2 = [
-  {
-    name: 'Jujin Take',
-    type: 'Ninja',
-    weapon: 'Shuriken',
-    agility: 79,
-  },
-  {
-    name: 'Kotaro',
-    type: 'Knight',
-    weapon: 'Sword',
-    agility: 70,
-  },
-  {
-    name: 'Izaka',
-    type: 'Archer',
-    weapon: 'Arch',
-    agility: 88,
-  },
-];
+function sayHello(greeting) {
+  return `${greeting}, ${this.name}`;
+}
 
-const reviewWarriors = () => {
-  const akatzuki = {
-    name: 'Itachi',
-    type: 'Ninja',
-    weapon: 'Himself',
-    agility: 95,
-  };
-  console.log(warriors, akatzuki);
-  warriors2.map(({ agility, name, type }) => {
-    if (agility > 85) {
-      console.log(`Only ${name} the ${type} is able to fight ${akatzuki.name}`);
-    }
-  });
-  console.log(warriors, akatzuki);
+const user = {
+  name: 'Harrison',
 };
 
-reviewWarriors();
+// using call
+console.log(sayHello.call(user, 'Hello')); // prints "Hello, Harrison"
 
-console.log(warriors, akatzuki);
+// using apply
+console.log(sayHello.apply(user, ['Good morning'])); // prints "Good morning, Harrison"
+
+// using bind
+const boundSayHello = sayHello.bind(user, 'Hey there');
+console.log(boundSayHello()); // prints "Hey there, Harrison"

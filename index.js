@@ -1,32 +1,19 @@
-'use stric';
-
-// warrior = 'Ninja';
-
-const warrior = {
-  name: 'Jujin Take',
-  type: 'Ninja',
-  weapon: 'Shuriken',
-  agility: 79,
-}; //globally scoped
-
-//globally scoped
-const screamWarrior = () => {
-  let warrior2 = 'Samurai';
-  //   wrapped in a function now is a closure
-  warrior3 = 'Viking'; //DO NOT USE example
-  return {
-    shootWarrior: () => {
-      return console.log(warrior, warrior2);
-    },
-  };
+var a = {
+  name: 'NameA',
+  getName() {
+    return this.name;
+  },
 };
+var b = { name: 'nameB' }; //... todo smthb.getName(); // = "nameB"
 
-const newWarrior = screamWarrior();
+console.log(a.getName());
 
-newWarrior.shootWarrior();
+console.log(a.getName.call(b));
 
-console.log(warrior, warrior3);
-
-// var warrior; // Example of Hoisting
-
-// var warrior3 = 'Viking'; // Should show undefined
+// destructuring
+for (var i = 0; i < 10; i++) {
+  fn(i);
+}
+function fn(...args) {
+  console.log(args);
+}
